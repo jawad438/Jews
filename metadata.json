@@ -1,0 +1,5 @@
+{
+  "name": "Avoid him!",
+  "description": "A simple 2D game where you collect coins for score, while avoiding falling enemies. The game's difficulty increases over time. The theme is white with blue stripes.",
+  "requestFramePermissions": []
+}
